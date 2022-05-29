@@ -1,0 +1,10 @@
+For some reason, everytime I added new statements on the query of the website, it only executed the first statement.
+I therefore had to delete my previous statment every single time and have no query to show, but:
+
+Here are my results:
+
+Murderer: Jeremy Bowers
+Vilian: Miranda Priestly
+
+I mainly used different select statements, often also joining them with the union statement when I had multiple witness information
+located in different tables.
